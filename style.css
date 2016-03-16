@@ -1,0 +1,27 @@
+.education {
+  color: #ffffff;
+  font-size: 25px;
+  text-align: justify;
+}
+
+.experience {
+  color: #fff;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align: justify;
+}
+
+.skills {
+  color: #ffffff;
+  text-align: justify;
+}
+
+.bold {
+  font-weight: bold;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #000000;
+}
